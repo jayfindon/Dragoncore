@@ -1,0 +1,168 @@
+{
+	"textures": [
+		{
+			"image": "player sprites.png",
+			"size": {
+				"w": 136,
+				"h": 27
+			},
+			"sprites": [
+				{
+					"filename": "1st frame.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "2nd frame.png",
+					"region": {
+						"x": 14,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "3rd frame.png",
+					"region": {
+						"x": 27,
+						"y": 0,
+						"w": 14,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "4th fram.png",
+					"region": {
+						"x": 41,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "5th  frame.png",
+					"region": {
+						"x": 54,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "6th frame.png",
+					"region": {
+						"x": 67,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "7th frame.png",
+					"region": {
+						"x": 80,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "8th frame.png",
+					"region": {
+						"x": 93,
+						"y": 0,
+						"w": 13,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "9th frame.png",
+					"region": {
+						"x": 106,
+						"y": 0,
+						"w": 14,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Practice_1_clone-1.png-15.png.png",
+					"region": {
+						"x": 120,
+						"y": 0,
+						"w": 16,
+						"h": 25
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e579da2dd20fb3a1ab31c9ca99614c2a:a108d1ccf438af2a92b63cb827175370:5826ae38e7bd763162cc70fdc423d996$"
+	}
+}
